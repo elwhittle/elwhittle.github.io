@@ -5,5 +5,7 @@
 - name: GLASS
   link: /glass/
   dropdown:
+    - name: About GLASS
+      link: /glass/
     - name: Experiences
       link: /experiences/
