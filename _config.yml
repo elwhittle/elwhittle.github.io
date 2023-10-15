@@ -33,7 +33,7 @@ github_username:  elijahwhittle
 
 # changed for bulma-clean-theme
 permalink: pretty
-fixed_navbar: top
+# fixed_navbar: top
 footer_menu: social
 # Build settings
 # theme: minima
