@@ -21,4 +21,4 @@ Member of the [GLASS Program](https://engineering.nyu.edu/student/elijah-whittle
 + Robotics and Haptics
 + Compilers and Programming Languages
 
-Please feel free to contact me at [elijah.whittle@nyu.edu](mailto:elijah.whittle@nyu.edu).
+You can email me at [elijah.whittle@nyu.edu](mailto:elijah.whittle@nyu.edu).
