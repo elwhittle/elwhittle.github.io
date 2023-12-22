@@ -20,7 +20,7 @@
 
 title: El Whittle
 
-repository: elijahwhittle/elijahwhittle.github.io
+repository: elwhittle/elwhittle.github.io
 author: El Whittle
 
 email: elijah.d.whittle@gmail.com
@@ -31,9 +31,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Google search results) and in your feed.xml site description.
 # baseurl: "" # the subpath of your site, e.g. /blog
 baseurl: ""
-domain: elijahwhittle.github.io
-url: https://elijahwhittle.github.io # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  elijahwhittle
+domain: elwhittle.github.io
+url: https://elwhittle.github.io # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  elwhittle
 
 # changed for bulma-clean-theme
 permalink: pretty
@@ -45,6 +45,10 @@ remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
   - jekyll-target-blank
+
+collections:
+  - glass_about
+  - glass_windows
 
 # Exclude from processing.
 # The following items will not be processed, by default.
