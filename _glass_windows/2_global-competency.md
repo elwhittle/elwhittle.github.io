@@ -1,8 +1,11 @@
 ---
 title: Global Competency
+color: \#eb3db4
 ---
 
 ## Study Abroad in Abu Dhabi
+<i style="color: #eb3db4">Study Abroad</i>
+
 I spent a semester abroad in Abu Dhabi. I lived at 
 [NYU Abu Dhabi](https://www.nyu.edu/abu-dhabi.html), and I was able to explore 
 the Emirates during my stay.
