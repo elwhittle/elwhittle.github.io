@@ -28,7 +28,7 @@ The Practical Care Kits aid in the mission for good health and well-being (SDG
 service also aims to reduce inequalities within the state. This is helped by 
 providing these care kits to those who need it.
 
-### Earth Day at Fort Greene Park
+## Earth Day at Fort Greene Park
 <i style="color: #27a35d">Volunteer Event</i>, 
 <i style="color: #27a35d">Sustainability</i>
 
