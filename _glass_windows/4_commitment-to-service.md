@@ -1,10 +1,10 @@
 ---
 title: Commitment to Service
-color: \#3deb88
+color: 27a35d
 ---
 
 ## Tandon and the Bowery Mission
-<i style="color: #3deb88">Volunteer Event</i>
+<i style="color: #27a35d">Volunteer Event</i>
 
 I helped to assemble Practical Care Kits for the clients of 
 [The Bowery Mission](https://www.bowery.org/). These kits went toward the 
@@ -29,8 +29,8 @@ service also aims to reduce inequalities within the state. This is helped by
 providing these care kits to those who need it.
 
 ### Earth Day at Fort Greene Park
-<i style="color: #3deb88">Volunteer Event</i>, 
-<i style="color: #3deb88">Sustainability</i>
+<i style="color: #27a35d">Volunteer Event</i>, 
+<i style="color: #27a35d">Sustainability</i>
 
 I participated in a volunteer event for Earth Day at [Fort Greene Park]
 (https://www.fortgreenepark.org/) in Brooklyn. Activities at this event 

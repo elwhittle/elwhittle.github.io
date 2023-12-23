@@ -1,6 +1,6 @@
 ---
 title: Global Competency
-color: \#eb3db4
+color: eb3db4
 ---
 
 ## Study Abroad in Abu Dhabi

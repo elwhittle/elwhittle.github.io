@@ -1,6 +1,6 @@
 ---
 title: Leadership
-color: \#558cbd
+color: 558cbd
 ---
 ## Tutoring Computer Science at the Polytechnic Tutoring Center
 <i style="color: #558cbd">Employment/Job</i>

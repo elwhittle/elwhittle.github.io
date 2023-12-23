@@ -13,8 +13,11 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
     {% if include.collection %}
         {% assign collection_items = include.collection %}
         {% for item in site[collection_items] %}
+            {% capture clr %}
+                style='color: #{{ item.color | default: #000000 }};'
+            {% endcapture %}
             <li><input id="accordion{{ forloop.index }}" type="checkbox" />
-                <label for="accordion{{ forloop.index }}">{{ item.title }}</label>
+                <label for="accordion{{ forloop.index }}" {{clr}}>{{ item.title }}</label>
                 <div>{{ item.content | markdownify }}</div>
             </li>
         {% endfor %}
@@ -28,3 +31,4 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
         {% endfor %}
     {% endif %}
 </ul>
+

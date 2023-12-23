@@ -1,6 +1,6 @@
 ---
 title: Academic Excellence
-color: \#57068c
+color: 57068c
 ---
 
 ## Machine Learning Studies

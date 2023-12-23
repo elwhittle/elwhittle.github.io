@@ -1,6 +1,6 @@
 ---
 title: Professional Development
-color: \#eb633d
+color: eb633d
 ---
 ## Attending SHPE Conference
 Details coming soon...
