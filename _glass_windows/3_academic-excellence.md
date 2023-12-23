@@ -3,7 +3,7 @@ title: Academic Excellence
 color: \#57068c
 ---
 
-### Machine Learning Studies
+## Machine Learning Studies
 <i style="color: #57068c">Special Course</i>, <i style="color: #57068c">Data Science/AI/Robotics</i>
 
 In Fall 2021, I took a course on AI. This gave me a broad overview on how 
