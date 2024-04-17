@@ -10,7 +10,7 @@ title: "About Me"
 ![El Whittle][profile pic]{: width="40%"}
 </center>
 
-I'm an undergraduate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/). I'm majoring in computer science, with minors in robotics and math. I work as a software engineer for [Qiqochat](https://qiqochat.com/about). I also work as a computer science tutor at the [Polytechnic Tutoring Center](https://engineering.nyu.edu/academics/undergraduate/tutoring-center). I am interested in machine learning, the brain, neurorobotics, and programming languages.
+I'm an undergraduate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/). I'm majoring in computer science, minoring in math. I work as a software engineer for [Insightflow](https://www.goinsightflow.com/). I am interested in machine learning, the brain, computational neuroscience and cognitive science, and programming languages and compilers.
 
 I also like rock climbing, board games, and tabletop RPGs.
 
