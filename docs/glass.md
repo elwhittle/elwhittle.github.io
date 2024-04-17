@@ -28,4 +28,11 @@ energy output with brain-inspired systems.
 
 The goal also relates most closely to two of the Tandon School of 
 Engineering's Areas of Excellence: [data science/AI/robotics](https://engineering.nyu.edu/research/areas-excellence/data-science-ai-robotics) 
-and [health](https://engineering.nyu.edu/research/areas-excellence/health)
+and [health](https://engineering.nyu.edu/research/areas-excellence/health).
+
+### Deliverables
+[Paper](https://drive.google.com/file/d/1xkTmMh8MdzxFdW3xLwLosF2kAdb2xOTf/view):
+my paper reviewing recent advances in neuroscience involving the significance of simulating glial cells, which make up half of the cells in the brain and contribute to neural function.
+
+[Presentation](https://drive.google.com/file/d/1MRDuNtc6ZAQxPfeC9lHyqYYfDrzp6uEW/view): 
+a presentation highlighting some of my experiences in GLASS and discussing my topic.
