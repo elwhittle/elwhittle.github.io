@@ -6,7 +6,7 @@ subtitle: B.S. Computer Science @ NYU Tandon School of Engineering
 layout: page
 ---
 
-### Student \| Tutor \| Software engineer
+### Student \| Software engineer
 {: style="color: DarkCyan; text-align: center" }
 
 Undergraduate student learning about computer science, machine learning, the brain, and programming languages, among other things.
@@ -21,4 +21,4 @@ Member of the [GLASS Program](https://engineering.nyu.edu/student/elijah-whittle
 + Robotics and Haptics
 + Compilers and Programming Languages
 
-You can email me at [elijah.whittle@nyu.edu](mailto:elijah.whittle@nyu.edu).
+You can email me at [edw2290@nyu.edu](mailto:edw2290@nyu.edu).
