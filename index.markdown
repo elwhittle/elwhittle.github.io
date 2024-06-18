@@ -11,7 +11,7 @@ layout: page
 
 Undergraduate student learning about computer science, machine learning, the brain, and programming languages, among other things.
 
-Member of the [GLASS Program](https://engineering.nyu.edu/student/elijah-whittle).
+Alumnus of the [GLASS Program](https://engineering.nyu.edu/alumni/el-whittle).
 
 ### Professional Interests
 {: style="color: DarkCyan; text-align: center" }
@@ -21,4 +21,4 @@ Member of the [GLASS Program](https://engineering.nyu.edu/student/elijah-whittle
 + Robotics and Haptics
 + Compilers and Programming Languages
 
-You can email me at [edw2290@nyu.edu](mailto:edw2290@nyu.edu).
+You can email me at [el.d.whittle@gmail.com](mailto:el.d.whittle@gmail.com).
